@@ -18,4 +18,11 @@ class Employee
         @boss = boss
     end
 
+    def salary
+        @salary
+    end 
+
+    def employees
+        []
+    end
 end
